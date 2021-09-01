@@ -21,7 +21,7 @@ Most features of this game are based on [Centipede](https://en.wikipedia.org/wik
 The number of the mushroom is set to 2 for this demo.
 - case win
 
-![demo_win](https://user-images.githubusercontent.com/85339193/131699965-438a7578-60cb-4d68-93c3-298530f340a0.gif)
+![demo_win](https://user-images.githubusercontent.com/85339193/131703160-0a941f7b-592a-40e1-9f6b-963723cdba80.gif)
 
 - case lose (collides with the shooter)
 
