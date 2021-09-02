@@ -1,4 +1,4 @@
-# CSC258-MIPS-ShootingGame
+# Mushroom Trouble
 Final project for CSC258 using MIPS assembly language
 
 Most features of this game are based on [Centipede](https://en.wikipedia.org/wiki/Centipede_(video_game)).
