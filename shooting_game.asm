@@ -3,7 +3,7 @@
 # CSC258H Winter 2021 Assembly Final Project
 # University of Toronto, St. George
 #
-# Student: Yiyi Zhang, Student Number: 1006298962
+# Student: Yiyi Zhang
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8
